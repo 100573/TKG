@@ -1,0 +1,25 @@
+# Vendor
+vendor/
+composer.lock
+
+# 生成ファイル
+*.xlsx
+*.xls
+*.pdf
+*/20*/
+
+# 一時ファイル
+*_temp.html
+
+# 設定ファイル（セキュリティ）
+config.php
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
